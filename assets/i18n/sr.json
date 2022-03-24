@@ -1,3 +1,19 @@
 {
-    "test": "Zdravo Svete!"
+  "login": {
+    "login": "prijava",
+    "password": "Lozinka",
+    "username": "Korisnicko Ime"
+  },
+  "login-messages": {
+    "success": "Uspesna prijava",
+    "error": "Neuspesna prijava"
+  },
+  "general": {
+    "close" : "Zatvori"
+  },
+  "cocktail-list": {
+    "name": "Naziv",
+    "changes": "Promena",
+    "price": "Cena"
+  }
 }

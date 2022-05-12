@@ -1,3 +1,14 @@
 {
-    "test": "Zdravo Svete!"
+  "breadcrumbs": {
+    "Countries": "Zemlje",
+    "Login": "Login",
+    "Home": "Home",
+    "Economy": "Ekonomija",
+    "Army": "Vojska",
+    "Custom Country": "Napravi drzavu",
+    "Demographics": "Demografija",
+    "Territory": "Teritorija",
+    "Guess game": "Igra Pogodi",
+    "More Details": "Vise detalja"
+  }
 }

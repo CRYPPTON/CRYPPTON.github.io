@@ -72,6 +72,8 @@ MIT
 @ngx-translate/http-loader
 MIT
 
+breadcrumb-lib
+
 echarts
 Apache-2.0
 

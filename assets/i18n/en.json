@@ -1,3 +1,15 @@
 {
-    "test": "Hello World!"
+  "breadcrumbs": {
+    "Countries": "Countries",
+    "Login": "Login",
+    "Home": "Home",
+    "Economy": "Economy",
+    "Army": "Army",
+    "Custom Country": "Custom Country",
+    "Demographics": "Demographics",
+    "Territory": "Territory",
+    "Guess game": "Guess game",
+    "More Details": "More Details"
+  }
 }
+
